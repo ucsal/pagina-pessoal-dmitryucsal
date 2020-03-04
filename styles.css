@@ -1,0 +1,49 @@
+html,
+body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+#cover {
+    background: #222 url('imagens/fiona.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    
+    text-align: center;
+    display: flex;
+    align-items: center; 
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+
+#contato {
+    max-width: 620px;
+    margin: auto;
+    padding: 10px;
+  }
+
+  .section-content {
+      padding: 5rem 0;
+  }
+
+  #sobre {
+      background: url('imagens/IMG_20191207_144639_974.jpg') center center no-repeat;
+      background-size: cover;
+  }
+
+  .sobre-texto {
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 1.875rem;
+  }
+
+
+
